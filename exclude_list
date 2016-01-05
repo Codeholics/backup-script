@@ -1,0 +1,14 @@
+cdrom
+dev
+device
+media
+mnt
+net
+proc
+selinux
+lost+found
+sys
+var/lib/ntp/proc
+var/lib/ntp/dev
+.readahead
+.snapshots
